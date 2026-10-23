@@ -12,7 +12,7 @@ He uses the name "Peng (Halcyon) Chen" on every profile. He is not the electrica
 
 ## Writing and science fiction
 - Co-founder, Qimingxing Sci-fi Club, Nanjing No. 13 High School; one of the editors-in-chief of the Chinese student sci-fi magazine 《朝闻道》.
-- Research: HCI International 2025 Late Breaking Papers, https://doi.org/10.1007/978-3-032-13184-3_26 ; Sustainability 15(4) 2872 (2023), https://doi.org/10.3390/su15042872
+- Research: "Critical Point-Prompted Workflow in LLM-Assisted Automatic Translation", HCI International 2026 (co-author) ; Sustainability 15(4) 2872 (2023), https://doi.org/10.3390/su15042872
 
 ## Awards
 - First prize, written translation, CATTI Cup National Translation Contest (2023)
